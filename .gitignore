@@ -1,0 +1,4 @@
+# Raw CMS data is ~280MB — way over GitHub's 100MB limit and not something to version anyway.
+# See README for the exact source link + filter used to regenerate it.
+*.csv
+.DS_Store
